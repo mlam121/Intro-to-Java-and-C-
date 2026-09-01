@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\mylen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\obj\\",
+      "outputPath": "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mylen\\AppData\\Roaming\\NuGet\\NuGet.Config"

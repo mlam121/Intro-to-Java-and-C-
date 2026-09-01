@@ -1,0 +1,15 @@
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\bin\Debug\net10.0\MyIntroduction.exe
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\bin\Debug\net10.0\MyIntroduction.deps.json
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\bin\Debug\net10.0\MyIntroduction.runtimeconfig.json
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\bin\Debug\net10.0\MyIntroduction.dll
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\bin\Debug\net10.0\MyIntroduction.pdb
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\MyIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\MyIntroduction.AssemblyInfoInputs.cache
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\MyIntroduction.AssemblyInfo.cs
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\MyIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\MyIntroduction.sourcelink.json
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\MyIntroduction.dll
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\refint\MyIntroduction.dll
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\MyIntroduction.pdb
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\MyIntroduction.genruntimeconfig.cache
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\MyIntroduction\obj\Debug\net10.0\ref\MyIntroduction.dll

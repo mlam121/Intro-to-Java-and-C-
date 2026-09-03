@@ -59,8 +59,10 @@ public class NumericTypes
 
       // ADD LINES FOR TASK #3 HERE
       // Get the first character from the user's first name
+      char firstInitial = firstName.charAt(0);
       // Print out the user's first initial
       // Convert the user's full name to uppercase
+      
       // Print out the user's full name in uppercase
 
       System.out.println();      // To leave a blank line

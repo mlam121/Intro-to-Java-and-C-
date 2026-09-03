@@ -1,0 +1,15 @@
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\bin\Debug\net10.0\StudentStats.exe
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\bin\Debug\net10.0\StudentStats.deps.json
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\bin\Debug\net10.0\StudentStats.runtimeconfig.json
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\bin\Debug\net10.0\StudentStats.dll
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\bin\Debug\net10.0\StudentStats.pdb
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\StudentStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\StudentStats.AssemblyInfoInputs.cache
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\StudentStats.AssemblyInfo.cs
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\StudentStats.csproj.CoreCompileInputs.cache
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\StudentStats.sourcelink.json
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\StudentStats.dll
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\refint\StudentStats.dll
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\StudentStats.pdb
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\StudentStats.genruntimeconfig.cache
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\StudentStats\obj\Debug\net10.0\ref\StudentStats.dll

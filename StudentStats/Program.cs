@@ -1,12 +1,17 @@
-﻿string firstName = "Alex";
-string lastName = "Smith";
+﻿Console.Write("Enter first name: ");
+String firstName = Console.ReadLine();
+
+Console.Write("Enter Last Name: ");
+String lastName = Console.ReadLine();
+
 string fullName = firstName + " " + lastName;
 
-
-
-int exam1 = 88;
-int exam2 = 94;
-int exam3 = 98;
+Console.Write("Enter your exam 1 score: ");
+int exam1 = int.Parse(Console.ReadLine());
+Console.Write("Enter your exam 2 score: ");
+int exam2 = int.Parse(Console.ReadLine());
+Console.Write("Enter your exam 3 score: ");
+int exam3 = int.Parse(Console.ReadLine());
 
 double studyHours = 7.8;
 
@@ -28,6 +33,7 @@ Console.WriteLine("Exam Average: " + average);
 Console.WriteLine("Study Hours: " + studyHours);
 
 int wholeHours = (int)studyHours;
+
 
 Console.WriteLine("Whole Study Hours: " + wholeHours);
 

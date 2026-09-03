@@ -1,12 +1,12 @@
 ﻿string firstName = "Alex";
 string lastName = "Smith";
 string fullName = firstName + " " + lastName;
-string fullNameUpper = fullName.ToUpper();
-string fullNameLower = fullName.ToLower();
+
+
 
 int exam1 = 88;
 int exam2 = 94;
-int exam3 = 97;
+int exam3 = 98;
 
 double studyHours = 7.8;
 
@@ -15,11 +15,13 @@ const double PARTICIPATION_WEIGHT = 0.20;
 Console.WriteLine("Student Progress Report");
 Console.WriteLine("-----------------------");
 
-Console.WriteLine("Student: " + firstName + " " + lastName);
-Console.WriteLine("Full Name (Uppercase): " + fullNameUpper);
-Console.WriteLine("Full Name (Lowercase): " + fullNameLower);
+Console.WriteLine("Student: " + fullName);
+Console.WriteLine("Full Name (Uppercase): " + fullName.ToUpper());
+Console.WriteLine("Full Name (Lowercase): " + fullName.ToLower());
+Console.WriteLine("Number of Characters: " + fullName.Length);
 
-double average = (exam1 + exam2 + exam3) / 3;
+
+double average = (exam1 + exam2 + exam3) / 3.0;
 
 Console.WriteLine("Exam Average: " + average);
 

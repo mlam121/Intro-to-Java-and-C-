@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj",
+        "projectName": "StudentStats",
+        "projectPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj",
         "packagesPath": "C:\\Users\\mylen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mylen\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj": {}
+    "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj": {
+    "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj",
+        "projectUniqueName": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj",
         "projectName": "StudentStats",
-        "projectPath": "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj",
+        "projectPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj",
         "packagesPath": "C:\\Users\\mylen\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\obj\\",
+        "outputPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mylen\\AppData\\Roaming\\NuGet\\NuGet.Config"

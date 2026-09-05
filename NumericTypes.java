@@ -61,7 +61,7 @@ public class NumericTypes
       // Concatenate the user's first and last names
 fullName = firstName + " " + lastName;
       // Print out the user's full name
-      System.out.println(fullName);
+      System.out.println("Your full name is " +fullName);
 
 
       // ADD LINES FOR TASK #3 HERE

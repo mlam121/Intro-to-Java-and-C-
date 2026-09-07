@@ -22,6 +22,8 @@ double textbookPrice = double.Parse(Console.ReadLine());
 double salesTax = textbookPrice * TAX_RATE;
 double totalCost = textbookPrice + salesTax;
 
+double price = 19.99;
+int dollars = (int)price;
 
 double studyHours = 7.8;
 
@@ -43,9 +45,9 @@ Console.WriteLine("-----------------------");
 Console.WriteLine();
 
 Console.WriteLine("Student: " + fullName);
-Console.WriteLine("Full Name (Uppercase): " + fullName.ToUpper());
-Console.WriteLine("Full Name (Lowercase): " + fullName.ToLower());
-Console.WriteLine("Name Length: " + fullName.Length);
+Console.WriteLine("Uppercase Name: " + fullName.ToUpper());
+Console.WriteLine("Lowercase Name: " + fullName.ToLower());
+Console.WriteLine("Number of Characters: " + fullName.Length);
 
 Console.WriteLine();
 
@@ -54,14 +56,14 @@ Console.WriteLine("Whole Study Hours: " + wholeHours);
 
 Console.WriteLine();
 
-Console.WriteLine("Exam Average: " + average.ToString("F2"));
-Console.WriteLine("Projected Final Grade: " + finalGrade.ToString("F2"));
+Console.WriteLine("Exam Average: " + average);
+Console.WriteLine("Projected Final Grade: " + finalGrade);
 
 Console.WriteLine();
 
-Console.WriteLine("Textbook Price: $" + textbookPrice.ToString("F2"));
-Console.WriteLine("Sales Tax: $" + salesTax.ToString("F2"));
-Console.WriteLine("Total Cost: $" + totalCost.ToString("F2"));
+Console.WriteLine("Textbook Price: $" + textbookPrice);
+Console.WriteLine("Sales Tax: $" + salesTax);
+Console.WriteLine("Total Cost: $" + totalCost);
 
 Console.WriteLine();
 

@@ -45,7 +45,7 @@ Console.WriteLine();
 Console.WriteLine("Student: " + fullName);
 Console.WriteLine("Full Name (Uppercase): " + fullName.ToUpper());
 Console.WriteLine("Full Name (Lowercase): " + fullName.ToLower());
-Console.WriteLine("Number of Characters: " + fullName.Length);
+Console.WriteLine("Name Length: " + fullName.Length);
 
 Console.WriteLine();
 

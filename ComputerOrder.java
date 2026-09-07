@@ -21,10 +21,10 @@ int quantity;
 final double SALES_TAX_RATE = 0.0825;
 
 
-System.out.println("Enter your first name: ");
+System.out.print("Enter your first name: ");
 firstName = keyboard.nextLine();
 
-System.out.println("Enter your last name: ");
+System.out.print("Enter your last name: ");
 lastName = keyboard.nextLine();
 
 fullName = firstName + " " + lastName;
@@ -32,6 +32,8 @@ System.out.println("Your full name is " + fullName);
 
 firstInitial = firstName.charAt(0);
 lastInitial = lastName.charAt(0);
+
+System.out.println();
 
 System.out.println("Enter your computer model: ");
 computerModel1 = keyboard.nextLine();

@@ -12,16 +12,15 @@ String fullName;
 char firstInitial;
 char lastInitial;
 
-String orderNumber;
-
 String computerModel1;
 double price;
 int quantity;
 
+String orderNumber;
+
 double subTotal;
 double salesTax;
 double totalCost;
-int WDsubTotal;
 
 int loyaltyPoints;
 
@@ -59,9 +58,8 @@ subTotal = price * quantity;
 salesTax = subTotal * SALES_TAX_RATE;
 totalCost = subTotal + salesTax;
 
-WDsubTotal = (int)subTotal;
 
-orderNumber = (firstInitial + "" + lastInitial) + "-" + quantity + "-" + WDsubTotal;
+orderNumber = (firstInitial + "" + lastInitial) + "-" + quantity + "-" + (int)subTotal;
 
 loyaltyPoints = (int)totalCost;
 
@@ -78,14 +76,15 @@ System.out.println();
 System.out.println();
 
         System.out.println("Computer Model: " + computerModel1);
-        System.out.println("Price Each: $" + price);
+        System.out.printf("Price Each: $%.2f%n", price);
         System.out.println("Quantity: " + quantity);
 
 System.out.println();
 
-        System.out.println("Subtotal: $" + subTotal);
-        System.out.println("Sales Tax: $" + salesTax);
-        System.out.println("Total Cost: $" + totalCost);
+        System.out.printf("Subtotal: $%.2f%n", subTotal);
+        System.out.printf("Sales Tax: $%.2f%n", salesTax);
+        System.out.printf("Total Cost: $%.2f%n", totalCost);
+
 
 System.out.println();
 

@@ -1,0 +1,15 @@
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\bin\Debug\net10.0\SubscriptionCalculator.exe
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\bin\Debug\net10.0\SubscriptionCalculator.deps.json
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\bin\Debug\net10.0\SubscriptionCalculator.runtimeconfig.json
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\bin\Debug\net10.0\SubscriptionCalculator.dll
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\bin\Debug\net10.0\SubscriptionCalculator.pdb
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\SubscriptionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\SubscriptionCalculator.AssemblyInfoInputs.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\SubscriptionCalculator.AssemblyInfo.cs
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\SubscriptionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\SubscriptionCalculator.sourcelink.json
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\SubscriptionCalculator.dll
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\refint\SubscriptionCalculator.dll
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\SubscriptionCalculator.pdb
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\SubscriptionCalculator.genruntimeconfig.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\SubscriptionCalculator\obj\Debug\net10.0\ref\SubscriptionCalculator.dll

@@ -1,4 +1,3 @@
-import java.io.Console;
 import java.util.Scanner;
 
 public class QuizGame
@@ -13,56 +12,83 @@ public class QuizGame
         System.out.println();
 
 
-        // Question 1
+// Question 1
         System.out.println("How many days are in a week?");
-        String answer1 = keyboard.nextLine();
-        if (answer1.equalsIgnoreCase("7")) {
-            score++;
-        }
-        else {
-            System.out.println("Incorrect.");
-        }
-
+        int answer1;
 
         try
         {
             answer1 = Integer.parseInt(keyboard.nextLine());
+
+            if (answer1 == 7)
+            {
+                System.out.println("Correct!");
+                score++;
+            }
+            else
+            {
+                System.out.println("Incorrect.");
+            }
         }
-        catch (NumberFormatException)
-        {
-            System.out.println("Incorrect");
-            return;
-        }
+catch (NumberFormatException e)
+{
+    System.out.println("Incorrect");
+}
+
 
         // Question 2
         System.out.println();
         System.out.println("What is the value of PI rounded to two decimal places?");
-        String answer2 = keyboard.nextLine();
-        if (answer2.equalsIgnoreCase("3.14")) {
+        double answer2 = Double.parseDouble(keyboard.nextLine());
+
+        if (answer2 == 3.14)
+        {
+            System.out.println("Correct!");
             score++;
         }
-        else {
+        else
+        {
             System.out.println("Incorrect.");
-            return;
         }
+
 
         // Question 3
         System.out.println();
         System.out.println("Name one programming language we are learning in this course:");
         String answer3 = keyboard.nextLine();
 
-        if (answer3.equalsIgnoreCase("Java or C#") || answer3.equalsIgnoreCase("C# or Java")) {
+        if (answer3.equalsIgnoreCase("Java") || answer3.equalsIgnoreCase("C#"))
+        {
+            System.out.println("Correct!");
             score++;
         }
-        else {
+        else
+        {
             System.out.println("Incorrect.");
-            return;
         }
-
 
 
         System.out.println();
-        System.out.println("Final Score: " + score);
+        System.out.println("Final Score: " + score + "/3");
+
+        switch (score)
+        {
+            case 3:
+                System.out.println("Quiz Master!");
+                break;
+
+            case 2:
+                System.out.println("Great Job!");
+                break;
+
+            case 1:
+                System.out.println("Keep Practicing!");
+                break;
+
+            case 0:
+                System.out.println("Let's Study More!");
+                break;
+        }
 
         keyboard.close();
     }

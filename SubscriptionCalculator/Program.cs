@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Welcome to Streamfix! Subscription Calculator");
+﻿Console.WriteLine("Welcome to Streamfix Subscription Calculator!");
 
 Console.WriteLine();
 

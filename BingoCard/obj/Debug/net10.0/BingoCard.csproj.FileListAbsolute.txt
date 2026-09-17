@@ -1,0 +1,5 @@
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\BingoCard\obj\Debug\net10.0\BingoCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\BingoCard\obj\Debug\net10.0\BingoCard.AssemblyInfoInputs.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\BingoCard\obj\Debug\net10.0\BingoCard.AssemblyInfo.cs
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\BingoCard\obj\Debug\net10.0\BingoCard.csproj.CoreCompileInputs.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\BingoCard\obj\Debug\net10.0\BingoCard.sourcelink.json

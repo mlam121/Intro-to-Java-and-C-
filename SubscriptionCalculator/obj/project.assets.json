@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\SubscriptionCalculator\\SubscriptionCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\Intro-to-Java-and-C-\\SubscriptionCalculator\\SubscriptionCalculator.csproj",
       "projectName": "SubscriptionCalculator",
-      "projectPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\SubscriptionCalculator\\SubscriptionCalculator.csproj",
+      "projectPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\Intro-to-Java-and-C-\\SubscriptionCalculator\\SubscriptionCalculator.csproj",
       "packagesPath": "C:\\Users\\mylen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\SubscriptionCalculator\\obj\\",
+      "outputPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\Intro-to-Java-and-C-\\SubscriptionCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mylen\\AppData\\Roaming\\NuGet\\NuGet.Config"

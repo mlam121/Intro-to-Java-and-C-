@@ -1,10 +1,33 @@
-﻿Random rand = new Random();
+﻿//Random rand = new Random();
+
+//int bingoValue;
+
+//Console.WriteLine("B\tI\tN\tG\tO");
+
+//for (int row = 0; row <=4; row++)
+// {
+//    for (int startRange = 1; startRange < 75; startRange += 15)
+//    {
+//        if (row == 2 && startRange == 31)
+//        {
+//            Console.Write("FREE\t");
+//        }
+//        else
+//        {
+//            bingoValue = rand.Next(15) + startRange;
+//            Console.Write(bingoValue + "\t");
+//        }
+//    }
+//    Console.WriteLine();
+// }
+
+Random rand = new Random();
 int[,] bingoCard = new int[5, 5];
 List<int> usedNumbers = new List<int>();
 
 for (int row = 0; row < 5; row++)
 {
-    for (int col = 0; row < 5; row++)
+    for (int col = 0; col < 5; col++)
     {
         if (row == 2 && col == 2)
         {

@@ -1,0 +1,15 @@
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\bin\Debug\net10.0\QuizGame.exe
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\bin\Debug\net10.0\QuizGame.deps.json
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\bin\Debug\net10.0\QuizGame.runtimeconfig.json
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\bin\Debug\net10.0\QuizGame.dll
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\bin\Debug\net10.0\QuizGame.pdb
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\QuizGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\QuizGame.AssemblyInfoInputs.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\QuizGame.AssemblyInfo.cs
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\QuizGame.csproj.CoreCompileInputs.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\QuizGame.sourcelink.json
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\QuizGame.dll
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\refint\QuizGame.dll
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\QuizGame.pdb
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\QuizGame.genruntimeconfig.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\QuizGame\obj\Debug\net10.0\ref\QuizGame.dll

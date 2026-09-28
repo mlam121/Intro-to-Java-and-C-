@@ -1,3 +1,4 @@
+package java;
 // TASK #2 Add an import statement for the Scanner class
 import java.util.Scanner;
 /**

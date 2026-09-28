@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubscriptionCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f977bfdb445a2212343ebdc91c002ba9dd8cc0c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4ad922c9862e27876203934692e62972803698a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubscriptionCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubscriptionCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

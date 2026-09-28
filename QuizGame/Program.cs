@@ -4,140 +4,117 @@ int highestScore = 0;
 
 string playAgain = "Y";
 
+// Questions and answers are stored in arrays
+string[] questions =
+{
+    "How many days are in a week?",
+    "What is the value of PI rounded to two decimal places?",
+    "Name one programming language we are learning in this course.",
+    "Riddle: What has a head and a tail, but no body?",
+    "Riddle: I act like a cat, I look like a cat. Yet, I am not a cat. What am I?"
+};
+
+string[] answers =
+{
+    "7",
+    "3.14",
+    "C#",
+    "Coin",
+    "Kitten"
+};
+
 while (playAgain.Equals("Y", StringComparison.OrdinalIgnoreCase))
 {
+    score = 0;
 
-score = 0;
+    // Question order
+int[] order = { 0, 1, 2, 3, 4 };
 
-Console.WriteLine("Welcome to the Quiz Game!");
-Console.WriteLine();
+Random random = new Random();
 
-// Question 1
-Console.WriteLine("How many days are in a week?");
-
-int answer1;
-
-try
+// Randomize the questions
+for (int i = 0; i < order.Length; i++)
 {
-    answer1 = int.Parse(Console.ReadLine());
+    int randomNumber = random.Next(i, order.Length);
 
-    if (answer1 == 7)
+    int temp = order[i];
+    order[i] = order[randomNumber];
+    order[randomNumber] = temp;
+}
+
+
+    Console.WriteLine("Welcome to the Quiz Game!");
+    Console.WriteLine();
+
+    // Ask all of the questions
+    for (int i = 0; i < questions.Length; i++)
     {
-        Console.WriteLine("Correct!");
-        score++;
+        int questionNumber = order[i];
+
+        Console.WriteLine(questions[questionNumber]);
+
+        string userAnswer = Console.ReadLine() ?? "";
+
+        if (userAnswer.Equals(answers[questionNumber], StringComparison.OrdinalIgnoreCase))
+        {
+            Console.WriteLine("Correct!");
+            score++;
+        }
+        else if (questionNumber == 2 &&
+                userAnswer.Equals("Java", StringComparison.OrdinalIgnoreCase))
+        {
+            Console.WriteLine("Correct!");
+            score++;
+        }
+        else
+        {
+            Console.WriteLine("Incorrect.");
+        }
+
+        Console.WriteLine();
     }
-    else
+
+    // Score Display
+    Console.WriteLine("Final Score: " + score);
+
+    // Switch statement
+    switch (score)
     {
-        Console.WriteLine("Incorrect.");
+        case 5:
+            Console.WriteLine("Quiz Master!");
+            break;
+        case 4:
+            Console.WriteLine("Great Job!");
+            break;
+        case 3:
+            Console.WriteLine("Great Job!");
+            break;
+        case 2:
+            Console.WriteLine("Great Job!");
+            break;
+        case 1:
+            Console.WriteLine("Keep Practicing!");
+            break;
+        default:
+            Console.WriteLine("Let's Study More!");
+            break;
     }
-}
-catch (FormatException)
-{
-    Console.WriteLine("Incorrect");
-}
 
-// Question 2
-Console.WriteLine("What is the value of PI rounded to two decimal places?");
+    // Track played games
+    gamesPlayed++;
 
-double answer2 = double.Parse(Console.ReadLine());
-
-if (answer2 == 3.14)
-{
-    Console.WriteLine("Correct!");
-    score++;
-}
-else
-{
-    Console.WriteLine("Incorrect.");
-}
-
-// Question 3
-Console.WriteLine("Name one programming language we are learning in this course.");
-
-string answer3 = Console.ReadLine();
-
-if (answer3.Equals("C#", StringComparison.OrdinalIgnoreCase) || answer3.Equals("Java", StringComparison.OrdinalIgnoreCase))
-{
-    Console.WriteLine("Correct!");
-    score++;
-}
-else
-{
-    Console.WriteLine("Incorrect.");
-}
-
-//Question 4
-Console.WriteLine("Riddle:  What has a head and a tail, but no body?");
-
-string answer4 = Console.ReadLine();
-if (answer4.Equals("Coin", StringComparison.OrdinalIgnoreCase))
-{
-    Console.WriteLine("Correct!");
-    score++;
-}
-else
-{
-    Console.WriteLine("Incorrect.");
-}
-
-
-//Question 5
-Console.WriteLine("Riddle: I act like a cat, I look like a cat. Yet, I am not a cat. What am I?");
-
-string answer5 = Console.ReadLine();
-if(answer5.Equals("Kitten", StringComparison.OrdinalIgnoreCase))
-{
-    Console.WriteLine("Correct!");
-    score++;
-}
-else
-{
-    Console.WriteLine("Incorrect.");
-}
-
-
-//Score Display
-Console.WriteLine();
-Console.WriteLine("Final Score: " + score);
-
-//Switch statement
-switch (score)
-{
-    case 5:
-        Console.WriteLine("Quiz Master!");
-        break;
-    case 4:
-        Console.WriteLine("Great Job!");
-        break;
-    case 3:
-        Console.WriteLine("Great Job!");
-        break;
-    case 2:
-        Console.WriteLine("Great Job!");
-        break;
-    case 1:
-        Console.WriteLine("Keep Practicing!");
-        break;
-    default:
-        Console.WriteLine("Let's Study More!");
-        break;
-}
-
-//Track played games
-gamesPlayed++;
-
-//highest score
-if (score > highestScore)
+    // Track highest score
+    if (score > highestScore)
     {
         highestScore = score;
     }
 
-//play again
-do
+    // Play again
+    do
     {
         Console.WriteLine();
         Console.WriteLine("Would you like to play again? (Y/N)");
-        playAgain = Console.ReadLine();
+        playAgain = Console.ReadLine() ?? "";
 
         if (!playAgain.Equals("Y", StringComparison.OrdinalIgnoreCase) &&
             !playAgain.Equals("N", StringComparison.OrdinalIgnoreCase))
@@ -145,12 +122,12 @@ do
             Console.WriteLine("Invalid input. Please enter Y or N.");
         }
 
-    } 
+    }
     while (!playAgain.Equals("Y", StringComparison.OrdinalIgnoreCase) &&
-            !playAgain.Equals("N", StringComparison.OrdinalIgnoreCase));
+        !playAgain.Equals("N", StringComparison.OrdinalIgnoreCase));
 }
 
-//Final Sumamry
+// Final Summary
 Console.WriteLine();
 Console.WriteLine("Games Played: " + gamesPlayed);
 Console.WriteLine("Highest Score: " + highestScore);

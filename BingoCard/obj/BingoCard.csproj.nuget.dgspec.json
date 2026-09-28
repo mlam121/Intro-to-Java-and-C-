@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\BingoCard.csproj": {}
+    "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\BingoCard.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\BingoCard.csproj": {
+    "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\BingoCard.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\BingoCard.csproj",
+        "projectUniqueName": "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\BingoCard.csproj",
         "projectName": "BingoCard",
-        "projectPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\BingoCard.csproj",
+        "projectPath": "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\BingoCard.csproj",
         "packagesPath": "C:\\Users\\mylen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\obj\\",
+        "outputPath": "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\BingoCard\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mylen\\AppData\\Roaming\\NuGet\\NuGet.Config"

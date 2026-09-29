@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj": {}
+    "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj": {
+    "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj",
+        "projectUniqueName": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj",
         "projectName": "AnimalShelterCleanup",
-        "projectPath": "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj",
+        "projectPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj",
         "packagesPath": "C:\\Users\\mylen\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\obj\\",
+        "outputPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mylen\\AppData\\Roaming\\NuGet\\NuGet.Config"

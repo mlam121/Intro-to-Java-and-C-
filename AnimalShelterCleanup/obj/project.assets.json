@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj",
+      "projectUniqueName": "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj",
       "projectName": "AnimalShelterCleanup",
-      "projectPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj",
+      "projectPath": "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\AnimalShelterCleanup.csproj",
       "packagesPath": "C:\\Users\\mylen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\obj\\",
+      "outputPath": "c:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\AnimalShelterCleanup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mylen\\AppData\\Roaming\\NuGet\\NuGet.Config"

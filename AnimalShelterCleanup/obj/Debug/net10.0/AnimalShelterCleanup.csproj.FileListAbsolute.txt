@@ -1,0 +1,15 @@
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\bin\Debug\net10.0\AnimalShelterCleanup.exe
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\bin\Debug\net10.0\AnimalShelterCleanup.deps.json
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\bin\Debug\net10.0\AnimalShelterCleanup.runtimeconfig.json
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\bin\Debug\net10.0\AnimalShelterCleanup.dll
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\bin\Debug\net10.0\AnimalShelterCleanup.pdb
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\AnimalShelterCleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\AnimalShelterCleanup.AssemblyInfoInputs.cache
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\AnimalShelterCleanup.AssemblyInfo.cs
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\AnimalShelterCleanup.csproj.CoreCompileInputs.cache
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\AnimalShelterCleanup.sourcelink.json
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\AnimalShelterCleanup.dll
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\refint\AnimalShelterCleanup.dll
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\AnimalShelterCleanup.pdb
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\AnimalShelterCleanup.genruntimeconfig.cache
+C:\Users\mylen\Documents\GitHub\Intro-to-Java-and-C-\AnimalShelterCleanup\obj\Debug\net10.0\ref\AnimalShelterCleanup.dll

@@ -1,0 +1,5 @@
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\FarmClasses\obj\Debug\net10.0\FarmClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\FarmClasses\obj\Debug\net10.0\FarmClasses.AssemblyInfoInputs.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\FarmClasses\obj\Debug\net10.0\FarmClasses.AssemblyInfo.cs
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\FarmClasses\obj\Debug\net10.0\FarmClasses.csproj.CoreCompileInputs.cache
+C:\Users\mylen\OneDrive\Documents\GitHub\Intro-to-Java-and-C-\FarmClasses\obj\Debug\net10.0\FarmClasses.sourcelink.json

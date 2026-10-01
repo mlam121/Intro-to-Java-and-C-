@@ -1,10 +1,10 @@
 public class Cow
 {
     //Properties of each cow
-    public string Name{get;set}
-    public double Weight{get;set}
-    public int Age{get;set}
-    public bool Gender{get;set}
+    public string Name{get;set;}
+    public double Weight{get;set;}
+    public int Age{get;set;}
+    public bool Gender{get;set;}
 
     //Static variable to track the number of Cow objects created
     private static int cowCount = 0;
@@ -36,7 +36,7 @@ public class Cow
     }
 
     //Method to increase cow's age
-    public void IncreaseAge()
+    public void HaveBirthday()
     {
         Age++;
     }

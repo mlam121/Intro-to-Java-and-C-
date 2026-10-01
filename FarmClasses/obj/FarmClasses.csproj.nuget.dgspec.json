@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\FarmClasses.csproj": {}
+    "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\FarmClasses.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\FarmClasses.csproj": {
+    "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\FarmClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\FarmClasses.csproj",
+        "projectUniqueName": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\FarmClasses.csproj",
         "projectName": "FarmClasses",
-        "projectPath": "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\FarmClasses.csproj",
+        "projectPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\FarmClasses.csproj",
         "packagesPath": "C:\\Users\\mylen\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\obj\\",
+        "outputPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\FarmClasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mylen\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\mylen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\mylen\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mylen\\AppData\\Roaming\\NuGet\\NuGet.Config"

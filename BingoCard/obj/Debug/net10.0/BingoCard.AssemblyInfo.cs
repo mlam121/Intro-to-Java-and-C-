@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BingoCard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed9c58164ca876ea2175ee46f2446552beabfd74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70b2ccc42f5582e2e083577a04bdfa359127d31e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BingoCard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BingoCard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

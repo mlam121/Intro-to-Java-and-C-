@@ -22,19 +22,7 @@ public class TipTaxTotal extends JFrame{
     setLocationRelativeTo(null);
 
     calculateButton.addActionListener(e ->
-{
-
-});
-}
-
-//task 8: main method
-public static void main(String[] args)
-{
-    SwingUtilities.invokeLater(() ->
-    {
-        new TipTaxTotal()
-            .setVisible(true);
-    });
+);
 }
 
 //task 5
@@ -104,5 +92,14 @@ exitButton.addActionListener(e ->
     System.exit(0);
 });
 
+//task 8: main method
+public static void main(String[] args)
+{
+    SwingUtilities.invokeLater(() ->
+    {
+        new TipTaxTotal()
+            .setVisible(true);
+    });
+}
 
 }

@@ -2,9 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.text.NumberFormat;
 
-
-//task 3-4
-public class TipTaxTotal extends JFrame{
+public class TipTaxTotal extends JFrame {
+//instance variables
     private JTextField foodChargeTextField;
 
     private JLabel tipLabel;
@@ -13,93 +12,89 @@ public class TipTaxTotal extends JFrame{
 
     private JButton calculateButton;
     private JButton exitButton;
+//constructor
+    public TipTaxTotal(){
+        setTitle("Tip, Tax, and Total");
+        setSize(400, 250);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLocationRelativeTo(null);
 
-    public TipTaxTotal()
-{
-    setTitle("Tip, Tax, and Total");
-    setSize(400, 250);
-    setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-    setLocationRelativeTo(null);
+//controls
+    foodChargeTextField = new JTextField(10);
 
-    calculateButton.addActionListener(e ->
-);
-}
+    tipLabel = new JLabel("");
+    taxLabel = new JLabel("");
+    totalLabel = new JLabel("");
 
-//task 5
-//create the controls
-foodChargeTextField = new JTextField(10);
+    calculateButton = new JButton("Calculate");
+    exitButton = new JButton("Exit");
 
-tipLabel = new JLabel("");
-taxLabel = new JLabel("");
-totalLabel = new JLabel("");
+//create panel
+    JPanel panel = new JPanel();
+    panel.setLayout(new GridLayout(5, 2, 5, 5));
 
-calculateButton = new JButton("Calculate");
-exitButton = new JButton("Exit");
+    //add controls to panel
+    panel.add(new JLabel("Food Charge:"));
+    panel.add(foodChargeTextField);
 
+    panel.add(new JLabel("Tip:"));
+    panel.add(tipLabel);
 
-//create the panel
-JPanel panel = new JPanel();
+    panel.add(new JLabel("Tax:"));
+    panel.add(taxLabel);
 
-panel.setLayout(new GridLayout(5, 2, 5, 5));
+    panel.add(new JLabel("Total:"));
+    panel.add(totalLabel);
 
-//add controls to panel
-panel.add(new JLabel("Food Charge:"));
-panel.add(foodChargeTextField);
-
-panel.add(new JLabel("Tip:"));
-panel.add(tipLabel);
-
-panel.add(new JLabel("Tax:"));
-panel.add(taxLabel);
-
-panel.add(new JLabel("Total:"));
-panel.add(totalLabel);
-
-panel.add(calculateButton);
-panel.add(exitButton);
-
-
+    panel.add(calculateButton);
+    panel.add(exitButton);
+    
 //add panel to window
-add(panel);
+    add(panel);
 
-//task 6
+//calculate button action listener
 calculateButton.addActionListener(e ->
 {
-    double foodCharge;
-    double tip;
-    double tax;
-    double total;
+//declare variables
+double foodCharge;
+double tip;
+double tax;
+double total;
 
-    foodCharge =
-        Double.parseDouble(
-            foodChargeTextField.getText()
-        );
+//user input
+foodCharge =
+    Double.parseDouble(
+        foodChargeTextField.getText()
+    );
 
-    tip = foodCharge * 0.15;
-    tax = foodCharge * 0.07;
-    total = foodCharge + tip + tax;
+    //perform calculations
+tip = foodCharge * 0.15;
+tax = foodCharge * 0.07;
+total = foodCharge + tip + tax;
 
-    NumberFormat currency =
-        NumberFormat.getCurrencyInstance();
+//create currency formatter
+NumberFormat currency =
+    NumberFormat.getCurrencyInstance();
 
-    tipLabel.setText(currency.format(tip));
-    taxLabel.setText(currency.format(tax));
-    totalLabel.setText(currency.format(total));
-});
+//display results
+tipLabel.setText(currency.format(tip));
+taxLabel.setText(currency.format(tax));
+totalLabel.setText(currency.format(total));
+        }); //closes calculate button action listener
 
+//exit button action listener
 exitButton.addActionListener(e ->
 {
     System.exit(0);
-});
+});//closes exit button action listener
+    }//closes constructor
 
-//task 8: main method
 public static void main(String[] args)
 {
     SwingUtilities.invokeLater(() ->
     {
         new TipTaxTotal()
             .setVisible(true);
-    });
-}
-
-}
+        });
+    }//close main method
+}//closes class

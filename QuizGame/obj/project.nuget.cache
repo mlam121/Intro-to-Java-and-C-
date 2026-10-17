@@ -1,12 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "ohNoHa/Ctpk=",
-=======
-  "dgSpecHash": "QOwI3fALlso=",
->>>>>>> d52ff7cbd26712c73e5726bd4677827022bed254
   "success": true,
   "projectFilePath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\QuizGame\\QuizGame.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\QuizGame\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\QuizGame\\QuizGame.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\QuizGame\\QuizGame.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

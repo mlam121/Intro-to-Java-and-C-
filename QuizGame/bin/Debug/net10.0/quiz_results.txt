@@ -18,3 +18,18 @@ Final Score: 0/5
 Games Played: 4
 Highest Score: 3
 
+Game 1
+Final Score: 5/5
+Games Played: 1
+Highest Score: 5
+
+Game 2
+Final Score: 0/5
+Games Played: 2
+Highest Score: 5
+
+Game 3
+Final Score: 1/5
+Games Played: 3
+Highest Score: 5
+

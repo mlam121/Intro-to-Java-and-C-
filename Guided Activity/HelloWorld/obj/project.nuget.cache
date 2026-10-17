@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "+/YjhfXeDcY=",
+=======
+  "dgSpecHash": "JU89mXj8mV4=",
+>>>>>>> d52ff7cbd26712c73e5726bd4677827022bed254
   "success": true,
   "projectFilePath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\Guided Activity\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],

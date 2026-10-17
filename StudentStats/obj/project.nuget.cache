@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "8tJJlQ1za0U=",
+=======
+  "dgSpecHash": "Tj9nXgvssFc=",
+>>>>>>> d52ff7cbd26712c73e5726bd4677827022bed254
   "success": true,
   "projectFilePath": "C:\\Users\\mylen\\OneDrive\\Documents\\GitHub\\Intro-to-Java-and-C-\\StudentStats\\StudentStats.csproj",
   "expectedPackageFiles": [],
